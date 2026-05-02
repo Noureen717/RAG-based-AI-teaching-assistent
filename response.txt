@@ -1,0 +1,7 @@
+I'd be happy to help you out.
+
+So, you're asking where SEO is covered in the Sigma web development course, right? Unfortunately, I couldn't find any information about SEO being discussed in Video 2: "Your First HTML Website". It seems that this topic might not be covered in this video or at least it's not mentioned explicitly.
+
+However, I can suggest looking into the next relevant videos after Video 2. Specifically, you may want to check out Video 10: "Video, Audio & Media in HTML", where they discuss how to embed videos and audio files using HTML. It's possible that some SEO-related concepts might be touched upon in this video.
+
+If you're still having trouble finding the information you need or if your question is related to a different topic, feel free to ask!
